@@ -1,0 +1,10 @@
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\bin\Debug\SpeedTypingTest.exe.config
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\bin\Debug\SpeedTypingTest.exe
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\bin\Debug\SpeedTypingTest.pdb
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.csprojAssemblyReference.cache
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.Form1.resources
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.Properties.Resources.resources
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.csproj.GenerateResource.cache
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.csproj.CoreCompileInputs.cache
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.exe
+E:\.net Task\SpeedTypingTest\SpeedTypingTest\obj\Debug\SpeedTypingTest.pdb
